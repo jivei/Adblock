@@ -217,7 +217,7 @@ console.log('是否（默认）开启成人🔞网站保护模式：' + getCooki
 // 是否开启导航🧭按钮🔘
 // 如【不需要开启导航🧭按钮🔘】可直接将 daohang_build() 进行注释
 // //daohang_build() 就像这样 
-daohang_build();
+//daohang_build();
 
 // 一些常量
 /* Start */
